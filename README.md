@@ -69,4 +69,5 @@ PS - type `python pdf2csv.py -h` to see all available arguements in command line
 
 # Special Thanks
 See original code: https://github.com/SahilChoudhary22/pdf2csv-converter
+
 Follow: https://github.com/SahilChoudhary22
